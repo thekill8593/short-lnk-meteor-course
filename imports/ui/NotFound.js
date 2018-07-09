@@ -6,7 +6,7 @@ export default () => {
         <div className={'boxed-view'}>
             <div className={'boxed-view__box'}>
                 <h1>Page Not found</h1>
-                <p>Hmmm, we are unable to find that page</p>
+                <p>we are unable to find that page</p>
                 <Link to={'/'} className={'button button--link'}>HEAD HOME</Link>
             </div>
         </div>
