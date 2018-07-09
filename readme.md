@@ -1,8 +1,8 @@
 # Short Lnk
 
-This is a short Lnk app.
+This is a short Lnk app, built on meteor and react.
 
-##Authors
+## Authors
 
 Jonathan Penaloza
 
